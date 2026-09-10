@@ -1,0 +1,1 @@
+{"devices":[{"id":"qpu-demo","topology":[[0,1],[1,2]],"gates":["x","cz"],"calibration_age_hours":1}]}
